@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "涙空",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T02:34:32.221985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙空",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_涙空_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙空",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/02_涙空_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙空",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_涙空_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙空",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_涙空_GReeeeN.txt"
+    }
+  ]
+}
